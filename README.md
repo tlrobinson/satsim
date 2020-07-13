@@ -1,6 +1,8 @@
 # SatSim
 
-A low-Earth orbit satellite simulator/visualization, with presets for live and proposed [Starlink](https://www.starlink.com/) constellations and ground stations.
+A satellite simulator/visualization using WebGL, with presets for live and proposed [Starlink](https://www.starlink.com/) constellations and ground stations.
+
+Live demo at https://satsim.vercel.app/
 
 ## Features
 
