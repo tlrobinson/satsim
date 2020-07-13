@@ -1,0 +1,45 @@
+{
+  "name": "satsim",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "@zeit/next-workers": "^1.0.0",
+    "axios": "^0.19.2",
+    "chroma-js": "^2.1.0",
+    "dijkstrajs": "^1.0.1",
+    "geokdbush": "^1.1.0",
+    "globe.gl": "^2.11.0",
+    "h3-js": "^3.6.3",
+    "icepick": "^2.4.0",
+    "kdbush": "^3.0.0",
+    "lodash": "^4.17.15",
+    "next": "9.4.4",
+    "postcss-preset-env": "^6.7.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "satellite.js": "^4.0.0",
+    "tailwindcss": "^1.4.6",
+    "tailwindcss-classnames": "^1.3.9-next.2",
+    "worker-loader": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/node": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-typescript": "^7.10.4",
+    "@types/jest": "^26.0.3",
+    "@types/lodash": "^4.14.157",
+    "@types/node": "^14.0.14",
+    "@types/react": "^16.9.41",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  }
+}

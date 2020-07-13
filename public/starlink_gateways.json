@@ -1,0 +1,171 @@
+[
+  {
+    "name": "Conrad MT Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-08-15<br>https://fcc.report/IBFS/SES-LIC-20190816-01062",
+    "coordinates": [-111.945278, 48.203306, 0],
+    "active": true
+  },
+  {
+    "name": "Loring ME Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-08-15<br>https://fcc.report/IBFS/SES-LIC-20190816-01063",
+    "coordinates": [-67.919528, 46.914917, 0]
+  },
+  {
+    "name": "Redmond WA Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-08-26<br>https://fcc.report/IBFS/SES-LIC-20190827-01110",
+    "coordinates": [-122.032139, 47.694194, 0],
+    "active": true
+  },
+  {
+    "name": "Greenville PA Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-09-05<br>https://fcc.report/IBFS/SES-LIC-20190906-01170",
+    "coordinates": [-80.333222, 41.433556, 0],
+    "active": true
+  },
+  {
+    "name": "Merrillan WI Gateway",
+    "description": "<img src=\"https://doc-04-9s-mymaps.googleusercontent.com/untrusted/hostedimage/ta6t2ufqkm4kb0ptbdhmihgbr4/3hd725m61u12jf2h8tap0iu62g/1594098392250/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/01070948022038765711/5AF2TALpqFdGopedT31oiWM825XESowk-4G1-H_HZ1gwkOF2hoD1EnQsvR1SFwojWLZZJAKMm3okMdHnoNkf2lh890ZA0g1wZ7u8_xyMDvpMLzRhXGAqHbMW_LVcNtB7GsrxWsI4rC0F3MTaox0iBQNQdrvOg8qMKAmis_jMKF17Oav4IOkcNq3xRpM99_GPOt5g8ac95gJe9Kb21RGc_aBFnszOuVB_V8jXEXa-DYWGCTNk4irJ54clmHqv_sNOVzpnGUsoT8wUXdCF35pyMypBBnUVOHLaBxg?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.25 GHz total (28.35-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2019-09-05<br>https://fcc.report/IBFS/SES-LIC-20190906-01171<br><br>Photos: https://imgur.com/a/ygxncIO<br><br>Photos: https://www.reddit.com/r/SpaceXLounge/comments/gkkm9c/starlink_base_station_photos_from_the_location_of/",
+    "coordinates": [-90.814278, 44.406333, 0],
+    "active": true
+  },
+  {
+    "name": "Kalama WA Gateway",
+    "description": "Antenna count: 8 <br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-02-06<br>https://fcc.report/IBFS/SES-LIC-20200210-00148",
+    "coordinates": [-122.8082222, 46.0389722, 0],
+    "active": true
+  },
+  {
+    "name": "Hawthorne CA Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-02-06<br>https://fcc.report/IBFS/SES-LIC-20200210-00150",
+    "coordinates": [-118.328111, 33.9175, 0],
+    "active": true
+  },
+  {
+    "name": "Arbuckle CA Gateway",
+    "description": "Antenna count: 8 <br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-23<br>https://fcc.report/IBFS/SES-LIC-20200327-00325",
+    "coordinates": [-122.06, 39.057, 0]
+  },
+  {
+    "name": "Beekmantown NY Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-24<br>https://fcc.report/IBFS/SES-LIC-20200327-00326",
+    "coordinates": [-73.48, 44.789972, 0]
+  },
+  {
+    "name": "Charleston OR Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-31<br>https://fcc.report/IBFS/SES-LIC-20200402-00365",
+    "coordinates": [-124.381194, 43.248417, 0]
+  },
+  {
+    "name": "Coalville UT Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-31<br>https://fcc.report/IBFS/SES-LIC-20200402-00366",
+    "coordinates": [-111.285, 40.943056, 0]
+  },
+  {
+    "name": "Panaca NV Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-03-31<br>https://fcc.report/IBFS/SES-LIC-20200402-00367",
+    "coordinates": [-114.692694, 37.783639, 0]
+  },
+  {
+    "name": "Boca Chica TX Gateway",
+    "description": "<img src=\"https://doc-0s-9s-mymaps.googleusercontent.com/untrusted/hostedimage/ta6t2ufqkm4kb0ptbdhmihgbr4/5be2cfp6eh7a353gklfg33evtc/1594098392250/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/01070948022038765711/5AF2TALq_vjqYT_ZzNqTYKZFcjeIk9lPjPxFNi5zrfQBf5UeXnsI9NYzUyKqTRovGy_zxbWzF4LnUvoYSoFwY2aIJacqQorXbWismKTPwtWD8_SYQ9OqikFHIvQ5P8kck3FeOLp33SpZCgDCRqBsdHFS-DAgyFMjDn6IbonFutpi7itCUQ8hzO8IqX7BepZAYqIomkqROYQUjRCQWMbNYKQTUofMZfWdETitlxYr700TFG2faRynwBR7vvNPe96l1Qqk9lf4hzT61Cw-oW-vPC20aozhXXfRQag?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-06<br>https://fcc.report/IBFS/SES-LIC-20200406-00375<br><br>Photos: https://forum.nasaspaceflight.com/index.php?topic=48297.msg2070513#msg2070513",
+    "coordinates": [-97.18275, 25.990694, 0],
+    "active": true
+  },
+  {
+    "name": "McGregor TX Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 1.6 GHz total (27.5-29.1)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-06<br>https://fcc.report/IBFS/SES-LIC-20200406-00374",
+    "coordinates": [-97.438139, 31.404917, 0]
+  },
+  {
+    "name": "Litchfield CT Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-09<br>https://fcc.report/IBFS/SES-LIC-20200410-00399",
+    "coordinates": [-73.354028, 41.545028, 0]
+  },
+  {
+    "name": "Warren MO Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-09<br>https://fcc.report/IBFS/SES-LIC-20200410-00400",
+    "coordinates": [-91.116028, 38.635167, 0]
+  },
+  {
+    "name": "Nemaha NE Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-17<br>https://fcc.report/IBFS/SES-LIC-20200417-00422",
+    "coordinates": [-95.815278, 40.333667, 0]
+  },
+  {
+    "name": "Manistique Gateway",
+    "description": "<img src=\"https://doc-0s-9s-mymaps.googleusercontent.com/untrusted/hostedimage/ta6t2ufqkm4kb0ptbdhmihgbr4/kpult1ks0p8jrnj34la6lrnn0c/1594098392250/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/01070948022038765711/5AF2TALruGld2P_zkJ11Wfh3pdiq4np2L1AShydxWoWn-6ZpmgvrRbP-Py7LMasC8XKaIcXPL5Q1-EG5Z2v1jt0jgFMbrOz485bvKf2664xZ4Vtp2oEyTxdf9mLBQGFM1iD2uWBtDvEXey4bejvSRrphk-fGBGoZuGmxXQG6WX9LUy4dmIWcBxFqhCUUh4T6_KckKxQEmHk_Am6QwfK9QZ3ovDzgGmY6_Zf89YG0H8fLnDrjetUE0wVPXW8SRr9ytDAMzS4KJvsRY5RgGfO7a0oV3zAXD8gV2CQ?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-21<br>https://fcc.report/IBFS/SES-LIC-20200422-00443<br><br>Photos: https://imgur.com/a/e2X99jb",
+    "coordinates": [-86.483583, 45.908611, 0],
+    "active": true
+  },
+  {
+    "name": "Slope County Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-21<br>https://fcc.report/IBFS/SES-LIC-20200422-00442",
+    "coordinates": [-103.114583, 46.408389, 0]
+  },
+  {
+    "name": "Los Angeles Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-27<br>https://fcc.report/IBFS/SES-LIC-20200428-00458",
+    "coordinates": [-117.454361, 34.604028, 0]
+  },
+  {
+    "name": "Cass County, ND Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-30<br>https://fcc.report/IBFS/SES-LIC-20200430-00472",
+    "coordinates": [-97.408889, 47.151694, 0]
+  },
+  {
+    "name": "Prudhoe Bay AK Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-30<br>https://fcc.report/IBFS/SES-LIC-20200430-00471<br><br>Service in the area of this gateway depends on the approval of modification of highly inclined orbits https://fcc.report/IBFS/SAT-MOD-20200417-00037 as well as launch of satellites in the approved orbits.",
+    "coordinates": [-148.569, 70.246556, 0]
+  },
+  {
+    "name": "Sanderson TX Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-04-01<br>https://fcc.report/IBFS/SES-LIC-20200505-00498",
+    "coordinates": [-102.89, 30.194, 0]
+  },
+  {
+    "name": "Springer OK Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-05-21<br>https://fcc.report/IBFS/SES-LIC-20200528-00576",
+    "coordinates": [-97.213167, 34.2685, 0]
+  },
+  {
+    "name": "Hitterdal MN Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-12<br>https://fcc.report/IBFS/SES-LIC-20200616-00649",
+    "coordinates": [-96.258028, 46.978917, 0]
+  },
+  {
+    "name": "Tionesta CA Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-12<br>https://fcc.report/IBFS/SES-LIC-20200616-00645",
+    "coordinates": [-121.329972, 41.644, 0]
+  },
+  {
+    "name": "Butte MT Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-12<br>https://fcc.report/IBFS/SES-LIC-20200616-00648",
+    "coordinates": [-112.513194, 45.924056, 0]
+  },
+  {
+    "name": "Colburn ID Gateway",
+    "description": "<img src=\"https://doc-0s-9s-mymaps.googleusercontent.com/untrusted/hostedimage/ta6t2ufqkm4kb0ptbdhmihgbr4/usremo7or1l98ihjcvfrkal684/1594098392250/xJLYE5kRT4Z8xxy6hUeYp97cJJ0CBjRF/01070948022038765711/5AF2TALrtYQLDo5oDqW7gaSCmv59ra-B9QutIULbJU72KGpotHRC23gpyeFR4lYnWdm4ki-STkKzdmYrRQAMFASEMUZFJ4nr2hBeSjjba-yNRPxm9aIXL-jywYl2UUvcvYrkSUMoa0xe5iN8TEhrOU_1b5hAf4pvJYgpHpS-fZ7FtI3KJf0Z9yCctnrN-emRhYKHR3b2P0yXyLHq1vHxZD3_9sdSnqTkbCKXK36QG3fyP6QRimFlN0voSI0a605hnUNBa2Dr_quwzTKguZl4HFQu55JKHkTmG_Q?session=0&fife\" height=\"200\" width=\"auto\" /><br><br>Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-12<br>https://fcc.report/IBFS/SES-LIC-20200616-00647<br><br>Photos: https://www.reddit.com/r/Starlink/comments/hjbkuo/starlink_ground_station_being_constructed_near/",
+    "coordinates": [-116.439333, 48.34525, 0],
+    "active": true
+  },
+  {
+    "name": "Baxley GA Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-16<br>https://fcc.report/IBFS/SES-LIC-20200616-00646",
+    "coordinates": [-82.268972, 31.682167, 0]
+  },
+  {
+    "name": "Robertsdale AL Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-16<br>https://fcc.report/IBFS/SES-LIC-20200616-00650",
+    "coordinates": [-87.646, 30.567, 0]
+  },
+  {
+    "name": "Roll AZ Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-29<br>https://fcc.report/IBFS/SES-LIC-INTR2020-01643",
+    "coordinates": [-113.798056, 32.8155, 0]
+  },
+  {
+    "name": "Prosser WA Gateway",
+    "description": "Antenna count: 8<br>Antenna diameter: 5 feet<br>Antenna manufacturer: SpaceX<br>Uplink: 2.1 GHz total (27.5-29.1, 29.5-30 GHz)<br>Downlink: 1.3 GHz total (17.8-18.6, 18.8-19.3 GHz)<br>Date filed: 2020-06-29<br>https://fcc.report/IBFS/SES-LIC-INTR2020-01644",
+    "coordinates": [-119.684305, 46.127278, 0]
+  }
+]
