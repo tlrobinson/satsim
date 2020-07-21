@@ -19,7 +19,7 @@
     "h3-js": "^3.6.3",
     "icepick": "^2.4.0",
     "kdbush": "^3.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "next": "9.4.4",
     "postcss-preset-env": "^6.7.0",
     "react": "16.13.1",
