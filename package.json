@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@zeit/next-workers": "^1.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chroma-js": "^2.1.0",
     "dijkstrajs": "^1.0.1",
     "geokdbush": "^1.1.0",
